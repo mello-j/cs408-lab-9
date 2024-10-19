@@ -40,3 +40,5 @@ A simple bulleted list below is sufficient. For example:
 ## Reflection
 This was a good review of javascript fundamentals, and an advanced dive into object oriented programming in javascript (Which I've touched on slightly in personal endeavors).
 This lab was really fun, and I added a few things (like an image instead of the evil circle) but started this a bit late and didn't finish all the things I wanted. However I do plan to play around a bit more and see just where I could possibly take this (and/or other ideas). This was a great creative ground to learn new things and I really enjoyed this lab!
+
+I also ran out of time to add tests and was focused on just completing the lab as described, I hope to go in and add a few additional tests that would be useful for this program.
